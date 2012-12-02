@@ -1,0 +1,17 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Calle 13}{3}
+\contentsline {subsection}{\numberline {1.1}Muerte en Hawaii}{3}
+\contentsline {subsection}{\numberline {1.2}La Vuelta al Mundo}{5}
+\contentsline {section}{\numberline {2}Eva Cassidy}{6}
+\contentsline {section}{\numberline {3}The Cat Empire}{8}
+\contentsline {subsection}{\numberline {3.1}The Chariot}{8}
+\contentsline {subsection}{\numberline {3.2}The Lost Song}{11}
+\contentsline {subsection}{\numberline {3.3}The Wine Song}{12}
+\contentsline {section}{\numberline {4}Dire Straits}{14}
+\contentsline {subsection}{\numberline {4.1}Wild West End}{14}
+\contentsline {section}{\numberline {5}Grateful Dead}{15}
+\contentsline {subsection}{\numberline {5.1}Friend Of The Devil}{15}
+\contentsline {section}{\numberline {6}Jimi Hendrix}{17}
+\contentsline {subsection}{\numberline {6.1}All Along the Watchtower}{17}
+\contentsline {subsection}{\numberline {6.2}Hey Joe}{18}
+\contentsline {subsection}{\numberline {6.3}The Wind Cries Mary}{19}

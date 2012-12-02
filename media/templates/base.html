@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+<!-- css -->
+<link type="text/css" href="{{MEDIA_URL}}css/jquery-ui-1.9.1.custom.min.css" rel="stylesheet" />
+<link type="text/css" href="{{MEDIA_URL}}css/dj.selectable.css" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="{{MEDIA_URL}}css/general.css">
+<!-- end css -->
+<!-- java script -->
+<script language="javascript" type="text/javascript" src="{{MEDIA_URL}}js/jquery-1.8.2.min.js"></script>
+<script language="javascript" type="text/javascript" src="{{MEDIA_URL}}js/jquery-scrolltofixed.js"></script>
+<script language="javascript" type="text/javascript" src="{{MEDIA_URL}}js/jquery-ui-1.9.1.custom.min.js"></script>
+<script language="javascript" type="text/javascript" src="{{MEDIA_URL}}js/jquery.dj.selectable.js"></script>
+<script language="javascript" type="text/javascript" src="{{MEDIA_URL}}js/general.js"></script>
+<!-- end java script -->
+<!-- fonts -->
+<link href='http://fonts.googleapis.com/css?family=Italiana' rel='stylesheet' type='text/css'>
+
+    <!-- <link rel="stylesheet" type="text/css" href="{{MEDIA_URL}}css/master.css"> -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+<!-- end fonts -->
+    <title>{% block title %}Chora{% endblock %}</title>
+    <meta name="Beautiful, printable chords for your music" http-equiv="Content-type" content="text/html; charset=utf-8">
+  </head>
+
+  <body>
+    <header>
+    <a href="/" id="title">
+      <h1 id="title">Chora</h3>
+      <h3 id="title">Beautiful Chords</h1>
+    </a>
+    </header>
+    {% block navBars %}
+    <div class="search">
+      <form id="search" action="/search/" method="get">
+        {{searchForm}}
+        <input id="searchSubmit" type="submit" value="" />
+      </form>
+    </div>
+
+    <div class="navBar">
+      <hr class="navLines" id="top" noshade  size=1> 
+      <hr class="navLines" id="top" noshade  size=1> <br>
+      <ul class="flatList">
+        <li> <a id="navLinks" href="/editSong/">Add song </a>
+        <li> <a id="navLinks" href="/printSongs/">Print </a>
+        <li> <a id="navLinks" href="/profile/">Profile </a>
+        <li> <a id="navLinks" href="/logout/">Log out </a>
+      </ul><br><br>
+      <hr class="navLines" id="bottom" noshade size=1> 
+      <hr class="navLines" id="bottom" noshade size=1> 
+    </div> <!-- navBar -->
+    {% endblock %}
+
+    <div id="content">
+      {% block content %}
+      {% endblock %}
+
+    </div><!--content-->
+  </body>
+</html>

@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block navBars %}
+{% endblock %}
+
+{% block content %}
+
+    <div class="wrap">
+      <div class="stacked">
+        
+        <h2>Register</h2>
+        
+        {% if message %}
+        <div id="error">{{message}}</div>
+        {% endif %}
+        <form action="/createUser/" method="post" id="login">
+          {% csrf_token %}
+          <div class="field">
+            <label for="username">Email</label>
+            <input type="email" name="username" id="email" class="text-input" placeholder="Page@LedZeppelin.com" />
+          </div><!--field-->
+        
+          <div class="field">
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" class="text-input" placeholder="Secret Password" />
+          </div><!--field-->
+            {#  <label for="passwordVerify">Verify password</label> #}
+            {# <input type="password" name="password" id="password" class="text-input" placeholder="Type Again Your Password" /> #}
+          <div class="action clearfix">
+            <input type="submit" onclick="doCSRFstuff()"/>
+          </div><!--action--> 
+        </form>
+      </div><!--stacked-->
+    </div><!--wrap-->
+
+{% endblock %}

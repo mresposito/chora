@@ -1,0 +1,464 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  16 NOV 2012 22:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**chord.tex
+(./chord.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2009/07/02 v2.20.1
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks24
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+\FV@CodeLineNo=\count100
+\FV@InFile=\read1
+\FV@TabBox=\box28
+\c@FancyVerbLine=\count101
+\FV@StepNumber=\count102
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count103
+\mult@box=\box29
+\multicol@leftmargin=\dimen112
+\c@unbalance=\count104
+\c@collectmore=\count105
+\doublecol@number=\count106
+\multicoltolerance=\count107
+\multicolpretolerance=\count108
+\full@width=\dimen113
+\page@free=\dimen114
+\premulticols=\dimen115
+\postmulticols=\dimen116
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count109
+\c@finalcolumnbadness=\count110
+\last@try=\dimen117
+\multicolovershoot=\dimen118
+\multicolundershoot=\dimen119
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\multicol@sort@counter=\count111
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen120
+\Gin@req@width=\dimen121
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count112
+\Gm@cntv=\count113
+\c@Gm@tempcnt=\count114
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
+\Gm@dimlist=\toks26
+)
+(./chord.aux)
+\openout1 = `chord.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=745.46222pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: guitar2.png Graphic file (type QTm)
+<use  "guitar2.png" > [1
+
+] (./chord.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 2.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 2.
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+))
+\tf@toc=\write4
+\openout4 = `chord.toc'.
+
+ [2]
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [3]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+
+[4]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+ [5] [6]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+
+[20]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+ [21]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [22] [23] [24] [25] [26] [27] [28] [29]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [30] [31] [32] [33] [34]
+[35] [36] [37]
+Missing character: There is no ￼ in font cmtt10!
+Missing character: There is no ￼ in font cmtt10!
+Missing character: There is no ￼ in font cmtt10!
+ [38] [39] [40] (./chord.aux) ) 
+Here is how much of TeX's memory you used:
+ 2520 strings out of 494004
+ 33239 string characters out of 3150890
+ 97877 words of memory out of 3000000
+ 5773 multiletter control sequences out of 15000+200000
+ 7678 words of font info for 30 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 27i,5n,24p,223b,266s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on chord.pdf (40 pages).

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.pack.js"></script>
+
+<p id='numSongs'>You have {{num_songs}} songs.</p>
+{% if num_songs == 0 %}
+<br>
+<p id='numSongs'>Get started by adding a new song to your collection.</p>
+{% endif %}
+
+{% for order in ordered %}
+<table>
+<h1 id="artist">{{order.artist}}</h1>
+  {% for song in order.songs %}
+  {# <td> #}
+    <a class="{% cycle col1,col2 %}" href="/viewSong?song={{song.id}}">{{song.name}}</a>
+    {% if not forloop.last %}
+    &nbsp; •  &nbsp; 
+    {% endif %}
+  {# </td> #}
+  {% endfor %}
+</table>
+{% endfor %}
+{% endblock %}

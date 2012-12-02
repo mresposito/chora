@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block content %}
+{% if song_id > 0 %}
+  <a href="#" onclick="deleteSong({{song_id}})">Delete</a>
+{% endif %}
+<form action="/editSong/" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <p>
+       {{ form.non_field_errors }}
+       {{ form.name }}{{ form.name.label_tag }} (Required)<br>
+       {{ form.errors }}
+      
+       {{ form.artist.help_text }}
+       {{ form.artist }} {{ form.artist.label_tag }} (Required)<br>
+       {{ form.artist.errors }}
+
+       {{ form.album }} {{ form.album.label_tag }}<br>
+       {{ form.album.errors }}
+
+       {{ form.content.label_tag }} <br>
+       {{ form.content }}
+       {{ form.content.errors }}<br>
+
+       <input type="submit" onclick="doCSRFstuff()" value="Save Changes" />
+       
+       <div style="visibility:hidden;">
+         {{ form.song_id}}
+       </div>
+
+     </p>
+</form>
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block content %}
+
+<h1>Search results</h1>
+
+{% for song in entry_list %}
+  <a href="/viewSong?song={{song.id}}">{{song.name}}</a><br>
+{% endfor %}
+{% endblock %}

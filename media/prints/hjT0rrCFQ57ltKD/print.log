@@ -1,0 +1,1203 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xelatex 2012.6.30)  22 NOV 2012 18:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**/Users/mre/chordbook/media/prints/hjT0rrCFQ57ltKD/print.tex
+(/Users/mre/chordbook/media/prints/hjT0rrCFQ57ltKD/print.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
+ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
+rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
+kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
+ polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
+lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
+welsh, loaded.
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\FV@CodeLineNo=\count88
+\FV@InFile=\read1
+\FV@TabBox=\box26
+\c@FancyVerbLine=\count89
+\FV@StepNumber=\count90
+\FV@OutFile=\write3
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count91
+\mult@box=\box27
+\multicol@leftmargin=\dimen103
+\c@unbalance=\count92
+\c@collectmore=\count93
+\doublecol@number=\count94
+\multicoltolerance=\count95
+\multicolpretolerance=\count96
+\full@width=\dimen104
+\page@free=\dimen105
+\premulticols=\dimen106
+\postmulticols=\dimen107
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count97
+\c@finalcolumnbadness=\count98
+\last@try=\dimen108
+\multicolovershoot=\dimen109
+\multicolundershoot=\dimen110
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\multicol@sort@counter=\count99
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/usr/local/texlive/2012/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2009/11/22 v0.94 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+(/usr/local/texlive/2012/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2012/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen113
+\Gm@wd@mp=\dimen114
+\Gm@odd@mp=\dimen115
+\Gm@even@mp=\dimen116
+\Gm@layoutwidth=\dimen117
+\Gm@layoutheight=\dimen118
+\Gm@layouthoffset=\dimen119
+\Gm@layoutvoffset=\dimen120
+\Gm@dimlist=\toks15
+)
+(./print.aux)
+\openout1 = `print.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=745.46222pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+LaTeX Warning: File `guitar2.png' not found on input line 12.
+
+! Unable to load picture or PDF file 'guitar2.png'.
+<to be read again> 
+                   }
+l.12 \includegraphics[scale=.6]{guitar2.png}
+                                            \\
+The requested image couldn't be read because 
+the file was not found.
+
+File: guitar2.png Graphic file (type QTm)
+<use  "guitar2.png" >
+! Unable to load picture or PDF file 'guitar2.png'.
+<to be read again> 
+                   \GXT@clipend 
+l.12 \includegraphics[scale=.6]{guitar2.png}
+                                            \\
+The requested image couldn't be read because 
+the file was not found.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \\
+       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1
+
+] (./print.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+ [2] [3] [4] [5] [6])
+\tf@toc=\write4
+\openout4 = `print.toc'.
+
+ [7]
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [8]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+ [9]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+ [10] [11]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmbx10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [12] [13] [14]
+[15] [16] [17] [18] [19] [20] [21] [22] [23]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [24]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+ [25]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [26] [27] [28] [29]
+[30] [31] [32] [33]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [34] [35] [36] [37] [38] [39] [40]
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+ [41] [42] [43] [44]
+[45] [46]
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmbx10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+ [47]
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+ [48]
+Missing character: There is no ” in font cmtt10!
+Missing character: There is no ” in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [49]
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [50]
+Missing character: There is no è in font cmtt10!
+ [51] [52] [53]
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+ [54] [55] [56] [57]
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+ [58] [59]
+[60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74]
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+
+[75]
+Missing character: There is no ’ in font cmtt10!
+ [76] [77]
+Missing character: There is no • in font cmtt10!
+Missing character: There is no — in font cmtt10!
+Missing character: There is no ^^8d in font cmtt10!
+Missing character: There is no • in font cmtt10!
+Missing character: There is no — in font cmtt10!
+Missing character: There is no Š in font cmtt10!
+Missing character: There is no • in font cmtt10!
+Missing character: There is no • in font cmtt10!
+Missing character: There is no — in font cmtt10!
+Missing character: There is no Š in font cmtt10!
+Missing character: There is no — in font cmtt10!
+Missing character: There is no — in font cmtt10!
+ [78]
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no   in font cmbx10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no   in font cmtt10!
+Missing character: There is no   in font cmtt10!
+ [79]
+Missing character: There is no à in font cmtt10!
+ [80]
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no … in font cmtt10!
+Missing character: There is no … in font cmtt10!
+Missing character: There is no … in font cmtt10!
+Missing character: There is no … in font cmtt10!
+Missing character: There is no … in font cmtt10!
+Missing character: There is no … in font cmtt10!
+ [81] [82] [83] [84] [85] [86] [87] [88] [89]
+[90] [91]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+ [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
+[104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115]
+[116]
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+ [117] [118] [119] [120]
+Missing character: There is no ’ in font cmtt10!
+ [121] [122] [123] [124] [125] [126]
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ‘ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ‘ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+ [127]
+[128] [129]
+Missing character: There is no ” in font cmtt10!
+Missing character: There is no “ in font cmtt10!
+Missing character: There is no ” in font cmtt10!
+Missing character: There is no “ in font cmtt10!
+Missing character: There is no ” in font cmtt10!
+Missing character: There is no ” in font cmtt10!
+ [130] [131] [132] [133] [134] [135]
+Missing character: There is no � in font cmtt10!
+Missing character: There is no � in font cmtt10!
+Missing character: There is no � in font cmtt10!
+Missing character: There is no � in font cmtt10!
+ [136]
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmbx10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+ [137]
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+Missing character: There is no ´ in font cmtt10!
+ [138]
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ã in font cmbx10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ã in font cmbx10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ã in font cmbx10!
+ [139]
+[140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [150]
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+ [151]
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+
+[152]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [153]
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+ [154]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+ [155]
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no È in font cmtt10!
+ [156]
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [157]
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no “ in font cmbx10!
+Missing character: There is no ” in font cmbx10!
+ [158]
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+Missing character: There is no ½ in font cmbx10!
+ [159] [160] [161] [162] [163]
+[164] [165] [166]
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+ [167]
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+Missing character: There is no ’ in font cmtt10!
+ [168] [169] [170]
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [171] [172] [173] [174] [175]
+[176] [177]
+Missing character: There is no ‘ in font cmtt10!
+Missing character: There is no ‘ in font cmtt10!
+ [178] [179] [180] [181]
+Missing character: There is no – in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no – in font cmbx10!
+Missing character: There is no – in font cmtt10!
+Missing character: There is no – in font cmtt10!
+Missing character: There is no – in font cmtt10!
+ [182]
+Missing character: There is no – in font cmtt10!
+Missing character: There is no – in font cmtt10!
+ [183] [184] [185]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [186]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [187]
+[188] [189] [190] [191] [192] [193] [194] [195] [196] [197] [198] [199]
+[200] [201] [202] [203] [204]
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+ [205]
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+Missing character: There is no ̀ in font cmtt10!
+ [206]
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [207]
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [208]
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmbx10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ¿ in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [209]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+ [210]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+ [211]
+[212]
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmbx10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no á in font cmtt10!
+ [213] [214] [215] [216] [217] [218] [219] [220] [221] [222] [223]
+[224]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [225]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no à in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+ [226]
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+ [227] [228] [229] [230] [231] [232] [233] [234]
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no ó in font cmtt10!
+Missing character: There is no í in font cmtt10!
+Missing character: There is no è in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no é in font cmtt10!
+Missing character: There is no è in font cmtt10!
+ [235]
+[236] [237] [238] [239] [240] [241]
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+Missing character: There is no ￼ in font cmbx10!
+ [242] [243] [244] (./print.aux) ) 
+Here is how much of TeX's memory you used:
+ 1519 strings out of 494004
+ 21520 string characters out of 3150890
+ 101369 words of memory out of 3000000
+ 4815 multiletter control sequences out of 15000+200000
+ 5633 words of font info for 21 fonts, out of 3000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 25i,5n,19p,232b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on print.pdf (244 pages).

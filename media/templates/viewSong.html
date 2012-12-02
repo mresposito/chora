@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block content %}
+
+{% if not have_it %}
+{% csrf_token %}
+<button type="button" onclick="addSongToCollection({{song.id}})">Add to your songs</button>
+{% endif %}
+<a href="/home/">Back to library</a>
+<div class = "vote">
+  <a href="#" class="vote" id="upArrowLink" onclick="toggleVote( 'upArrow',{{song.id}})">
+    <img id="upArrow" width=80% height=80% 
+    {% if like %} 
+      src="{{MEDIA_URL}}img/orangeArrow.png">
+    {% else %}
+      src="{{MEDIA_URL}}img/up.png">
+    {% endif %}
+  </a> <br>
+  {% csrf_token %}
+  <p id="counter">{{ numLikes }}</p>
+  <a href="#" class="vote" id="downArrowLink" onclick="toggleVote('downArrow',{{song.id}})">
+    <img id="downArrow" width=80% height=80% 
+    {% if dislike %} 
+      src="{{MEDIA_URL}}img/orangeArrow.png">
+    {% else %}
+      src="{{MEDIA_URL}}img/up.png">
+    {% endif %}
+  </a>
+</div>
+
+<a href="/editSong?song={{song.id}}">Edit song</a>
+<div class="song">
+<article class="entry post">
+    <header class="entry-header">
+      <h1 class="entry-title">{{song.name}}</h1>
+    </header>
+
+    <p id="preface">
+      <b>by: {{song.artist}}</b><br>
+      <b>Created by: {{song.author.user.username}} on {{song.timeCreated}}</b><br>
+      {% if song.album %}
+        <b>In album: {{ song.album }}</b><br>
+      {% endif %}
+      <b>Last modified by: {{song.lastEdit.user.username}} on {{song.timeLastEdit}}</b><br>
+      <b>Shared by {{num_share}} users.</b><br>
+      </p><br>
+    <div class="entry-content">
+      <p>{{song.content|safe}}</p>
+    </div>
+</article>
+</div>
+{% endblock %}

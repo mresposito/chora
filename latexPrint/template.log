@@ -1,0 +1,158 @@
+This is XeTeX, Version 3.1415926-2.4-0.9998 (TeX Live 2012) (format=xetex 2012.6.30)  16 NOV 2012 22:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template.tex
+(./template.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [a4paper]{article}
+? cont
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! Undefined control sequence.
+l.2 \usepackage
+               { makeidx,amsmath, amsthm,amssymb,fancyvrb, multicol}
+? 
+! Undefined control sequence.
+l.3 \usepackage
+               { graphicx}
+? 
+! Undefined control sequence.
+l.4 \usepackage
+               [T1]{fontenc}
+? 
+! Undefined control sequence.
+l.5 \usepackage
+               [utf8]{inputenc}
+? 
+! Undefined control sequence.
+l.6 \usepackage
+               {textcomp}
+? 
+! Undefined control sequence.
+l.7 \DeclareUnicodeCharacter
+                            {00A0}{ }
+? 
+
+Overfull \hbox (22.69057pt too wide) in paragraph at lines 1--8
+[]\tenrm [a4paper]article  makeidx,amsmath, am-sthm,amssymb,fancyvrb, mul-ti-co
+l  graph-icx [T1]fontenc [utf8]inputenc|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm a
+.\tenrm 4
+.\tenrm p
+.etc.
+
+! Undefined control sequence.
+l.9 \usepackage
+               [top=1.5 cm, bottom=2cm, left=1.5cm, right=1.5 cm]{geometry}
+? 
+! Undefined control sequence.
+l.10 \begin
+           {document}
+? 
+! Undefined control sequence.
+l.11 \begin
+           {center}
+? 
+! Undefined control sequence.
+l.12 \vspace
+            {3cm}
+? 
+! Undefined control sequence.
+l.13 {\bf{\huge
+                Chord book }}\\
+? 
+Runaway argument?
+ \vspace {2cm} USERNAME \vspace {2cm} \includegraphics [scale=.6]{gui\ETC.
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.23 
+     
+? 
+! Undefined control sequence.
+l.24 \newpage
+             
+? 
+! Undefined control sequence.
+l.25 \tableofcontents
+                     
+? 
+! Undefined control sequence.
+l.26 \newpage
+             
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.28 #
+      # START ##
+? 
+! You can't use `macro parameter character #' in vertical mode.
+l.28 ##
+        START ##
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.28 ## START #
+               #
+? 
+! You can't use `macro parameter character #' in horizontal mode.
+l.28 ## START ##
+                
+? 
+! Undefined control sequence.
+l.29 \section
+             {Calle 13} % (fold)
+? 
+! Undefined control sequence.
+l.30 \label
+           {sec:Calle 13}
+? 
+! Undefined control sequence.
+l.31 \subsection
+                {Muerte en Hawaii} % (fold)
+? 
+! Undefined control sequence.
+l.32 \label
+           {sub:Muerte en Hawaii}
+? 
+! Undefined control sequence.
+l.34 \begin
+           {Verbatim}[commandchars=\\\{\}]
+? 
+Runaway argument?
+\{\}] 
+! Paragraph ended before \\ was complete.
+<to be read again> 
+                   \par 
+l.35 
+     
+? 
+Missing character: There is no á in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no é in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no á in font cmr10!
+Missing character: There is no ó in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no í in font cmr10!
+Missing character: There is no ú in font cmr10!
+[1] )
+Output written on template.pdf (1 page).

@@ -1,0 +1,43 @@
+\contentsline {section}{\numberline {1}Buena Vista Social Club}{3}
+\contentsline {subsection}{\numberline {1.1}Quizas, Quizas, Quizas}{3}
+\contentsline {section}{\numberline {2}Calle 13}{4}
+\contentsline {subsection}{\numberline {2.1}Muerte en Hawaii}{4}
+\contentsline {subsection}{\numberline {2.2}La Vuelta al Mundo}{6}
+\contentsline {section}{\numberline {3}Renato Carosone}{7}
+\contentsline {subsection}{\numberline {3.1}Tu Vuo' Fa' L'Americano}{7}
+\contentsline {section}{\numberline {4}Eva Cassidy}{8}
+\contentsline {subsection}{\numberline {4.1}Somewhere Over The Rainbow}{8}
+\contentsline {section}{\numberline {5}The Cat Empire}{10}
+\contentsline {subsection}{\numberline {5.1}The Chariot}{10}
+\contentsline {subsection}{\numberline {5.2}The Lost Song}{13}
+\contentsline {subsection}{\numberline {5.3}The Wine Song}{14}
+\contentsline {section}{\numberline {6}Dire Straits}{16}
+\contentsline {subsection}{\numberline {6.1}Lions}{16}
+\contentsline {subsection}{\numberline {6.2}Wild West End}{17}
+\contentsline {section}{\numberline {7}The Doors}{18}
+\contentsline {subsection}{\numberline {7.1}My Wild Love}{18}
+\contentsline {section}{\numberline {8}Francesco De Gregori}{20}
+\contentsline {subsection}{\numberline {8.1}Buffalo Bill}{20}
+\contentsline {subsection}{\numberline {8.2}La Donna Cannone}{21}
+\contentsline {section}{\numberline {9}Gershwin}{23}
+\contentsline {subsection}{\numberline {9.1}Summertime}{23}
+\contentsline {section}{\numberline {10}Grateful Death}{24}
+\contentsline {subsection}{\numberline {10.1}Friend Of The Devil}{24}
+\contentsline {section}{\numberline {11}Jimi Hendrix}{26}
+\contentsline {subsection}{\numberline {11.1}All Along the Watchtower}{26}
+\contentsline {subsection}{\numberline {11.2}Bold as Love}{27}
+\contentsline {subsection}{\numberline {11.3}Hey Joe}{28}
+\contentsline {subsection}{\numberline {11.4}The Wind Cries Mary}{29}
+\contentsline {section}{\numberline {12}Nuova Compagnia di Canto Popolare}{30}
+\contentsline {subsection}{\numberline {12.1}Tammurriata Nera}{30}
+\contentsline {section}{\numberline {13}Peggy Lee}{31}
+\contentsline {section}{\numberline {14}Richie Havens}{32}
+\contentsline {subsection}{\numberline {14.1}San Francisco Bay Blues}{32}
+\contentsline {section}{\numberline {15}Red Hot Chili Peppers}{34}
+\contentsline {subsection}{\numberline {15.1}Dosed}{34}
+\contentsline {subsection}{\numberline {15.2}I Could Die for You}{36}
+\contentsline {subsection}{\numberline {15.3}Zephyr Song}{38}
+\contentsline {section}{\numberline {16}Simon and Garfunkel}{39}
+\contentsline {subsection}{\numberline {16.1}A Poem On The Underground Wall}{39}
+\contentsline {section}{\numberline {17}Steppenwolf}{40}
+\contentsline {subsection}{\numberline {17.1}Magic Carpet Ride}{40}

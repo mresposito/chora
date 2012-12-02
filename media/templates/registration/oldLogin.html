@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <title>Simple Login Form</title>
+    
+    <link rel="stylesheet" type="text/css" href="{{MEDIA_URL}}css/master.css">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>
+
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="stacked">
+        
+        <h2>Login</h2>
+        
+        {% if message %}
+        <div id="error">{{message}}</div>
+        {% endif %}
+        <form action="/user_login/" method="post" id="login">
+          <div class="field">
+            <label for="username">Username</label>
+            <input type="username" name="username" id="username" class="text-input" placeholder="Jimi Hendrix" />
+          </div><!--field-->
+        
+          <div class="field">
+            <label for="password">Password</label>
+            <input type="password" name="password" id="password" class="text-input" placeholder="Secret Password" />
+          </div><!--field-->
+        
+          <div class="action clearfix">
+            <input type="submit" />
+          </div><!--action--> 
+        </form>
+        
+      </div><!--stacked-->
+      
+    </div><!--wrap-->
+  </body>
+</html>
